@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💼 Abhijeet's Portfolio Website
+# 💼 Jatin Sharma's Portfolio Website
 
 </div>
 
@@ -74,21 +74,13 @@ A modern, responsive personal portfolio website showcasing my work as a full-sta
 
 ---
 
-## 📸 Live Preview
 
-👉 [Live Demo](https://abhijeetbhale.github.io/Portfolio/)
-
-## 📸 Screenshot
-
-![Portfolio Website](https://github.com/abhijeetBhale/Portfolio/blob/4153aac777d27ad5cc2aaa4ded9a3b347b8c8d9e/assets/portfolio-ss.png)
-
----
 
 ## 🚀 Getting Started
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/abhijeetBhale/Portfolio.git
+   git clone https://github.com/ptjatinsharma21/Jatin_Sharma_Portfolio.git
    cd Portfolio
    ```
 
@@ -165,8 +157,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **Email**: abhijeetbhale7@gmail.com
-- **LinkedIn**: [Abhijeet Bhale](https://www.linkedin.com/in/abhijeetbhale7)
-- **GitHub**: [@abhijeetBhale](https://github.com/abhijeetBhale)
-- **Instagram**: [@isocyanideisgood](https://www.instagram.com/isocyanideisgood)
+- **Email**: jatinsharmaofficial21@gmail.com
+- **LinkedIn**: [Jatin Sharma](https://www.linkedin.com/in/ptjatinshrma)
+- **GitHub**: [@ptjatinsharma21](https://github.com/ptjatinsharma21)
+- **Instagram**: [@ptjatinsharma](https://www.instagram.com/ptjatinsharma)
 
