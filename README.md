@@ -158,7 +158,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 - **Email**: jatinsharmaofficial21@gmail.com
-- **LinkedIn**: [Jatin Sharma](https://www.linkedin.com/in/ptjatinshrma)
+- **LinkedIn**: [Jatin Sharma](https://www.linkedin.com/in/jatin-sharma-pt/)
 - **GitHub**: [@ptjatinsharma21](https://github.com/ptjatinsharma21)
 - **Instagram**: [@ptjatinsharma](https://www.instagram.com/ptjatinsharma)
 
